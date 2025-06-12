@@ -2,7 +2,7 @@
 
 # scsf
 
-## An R-package containingspatial features datasets for the state of South Carolina.
+## An R-package containing spatial features datasets for the state of South Carolina.
 
 `scsf` is an open-source R-package published as a repository on
 GitHub. The package stores spatial features datasets for South Carolina. Includes the
