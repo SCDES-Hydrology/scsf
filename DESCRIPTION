@@ -13,8 +13,8 @@ Maintainer: Nicholas Pinder <nicholas.pinder@des.sc.gov>
 Description: Spatial features datasets for South Carolina. Includes the
     State boundary, counties, and regulatory basins.
 License: What license is it under?
-URL: https://github.com/SCDES-Hydrology/scpopulation
-BugReports: https://github.com/capellett/scsf/issues
+URL: https://github.com/SCDES-Hydrology/scsf
+BugReports: https://github.com/SCDES-Hydrology/scsf/issues
 Depends: 
     R (>= 4.5)
 Imports: 
