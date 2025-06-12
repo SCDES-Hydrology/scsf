@@ -1,0 +1,36 @@
+Type: Package
+Package: scsf
+Title: Spatial Features for South Carolina
+Version: 0.2.0
+Authors@R: c(
+    person("Laljeet", "Sangha", , "lsangha@clemson.edu", role = "aut"),
+    person("Priyanka", "More", , "morep@dnr.sc.gov", role = "aut"),
+    person("C A", "Pellett", , "c.alex.pellett@gmail.com", role = c("aut", "cre")),
+    person("N J", "Pinder", , "nicholas.pinder@des.sc.gov", role = c("aut")),
+    person("State of South Carolina Department of Environmental Services", role = "fnd")
+  )
+Maintainer: Nicholas Pinder <nicholas.pinder@des.sc.gov>
+Description: Spatial features datasets for South Carolina. Includes the
+    State boundary, counties, and regulatory basins.
+License: What license is it under?
+URL: https://github.com/SCDES-Hydrology/scpopulation
+BugReports: https://github.com/capellett/scsf/issues
+Depends: 
+    R (>= 4.5)
+Imports: 
+    magrittr,
+    methods, 
+    sf,
+    sp,
+    tibble,
+    dplyr,
+    stringr
+Suggests: 
+    testthat (>= 3.0.0),
+    knitr, 
+    rmarkdown
+Config/testthat/edition: 3
+VignetteBuilder: knitr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
