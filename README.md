@@ -2,11 +2,11 @@
 
 # scsf
 
-## An R-package containing generic functions for analysis for the state of South Carolina.
+## An R-package containingspatial features datasets for the state of South Carolina.
 
 `scsf` is an open-source R-package published as a repository on
 GitHub. The package stores spatial features datasets for South Carolina. Includes the
-State boundary, counties, and regulatory basins. This website documents the scutils
+State boundary, counties, and regulatory basins. This website documents the scsf
 R-package and provides access to the data for the general public without
 requiring the use of R software.
 
@@ -30,7 +30,7 @@ DES website:
 
 ## Use in R
 
-As an R-package, `scutils` can be installed in an R terminal with
+As an R-package, `scsf` can be installed in an R terminal with
 the following code:
 
 ``` r
